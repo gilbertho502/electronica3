@@ -1,6 +1,8 @@
 # electronica3
 curso de electronica 3, EIME, ingenieria, USAC
+Laboratorio de electronica 3
 
+Practicas y proyecto
 Para este laboratorio se utilizo la targeta #FPGA Ebert V2#
 
 **Descripcion del proyecto**
